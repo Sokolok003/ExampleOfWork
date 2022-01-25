@@ -1,0 +1,8 @@
+D:\peeeer7\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\peeeer7\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\peeeer7\ClassLibrary\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\peeeer7\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\peeeer7\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\peeeer7\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\peeeer7\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\peeeer7\ClassLibrary\obj\Debug\netstandard2.0\ClassLibrary.pdb

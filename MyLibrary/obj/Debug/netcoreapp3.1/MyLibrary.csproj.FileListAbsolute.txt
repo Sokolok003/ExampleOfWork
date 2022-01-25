@@ -1,0 +1,9 @@
+D:\peeeer7\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.deps.json
+D:\peeeer7\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.dll
+D:\peeeer7\MyLibrary\bin\Debug\netcoreapp3.1\MyLibrary.pdb
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csprojAssemblyReference.cache
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfoInputs.cache
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.AssemblyInfo.cs
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.csproj.CoreCompileInputs.cache
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.dll
+D:\peeeer7\MyLibrary\obj\Debug\netcoreapp3.1\MyLibrary.pdb
